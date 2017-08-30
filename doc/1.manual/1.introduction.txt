@@ -1,17 +1,17 @@
 PD_VERSION
 
-Pure Data(Pd)は直感的なグラフィカルプログラミング環境です。
+Pure Data(以降、特筆無き限りPd)は直感的なグラフィカルプログラミング環境です。
 A real-time graphical programming environment for live interactive
-特にライブ音楽の演奏など、めまぐるしく変化を必要とする用途に向いています。
+特にライブ音楽の演奏など、めまぐるしく変化を必要とする用途に向いています。代表的なものが音楽、といえばわかりやすいでしょう。
 PdはLinux, Mac OSX, そしてWindowsで動作します。
 computer music, Pd works on Linux, Macintosh OSX, and Microsoft Windows.
 
 Pd is copyrighted, but is free for you to use for any reasonable purpose.
-Pdは著作権で守られてこそいますが、商用非商用問わず利用可能です。
+Pdは著作権で守られてこそいますが、理由の如何、商用非商用問わず利用可能です。
 See the file:
 詳しくは
-     PD_BASEDIR/LICENSE.txt
-
+     PD_BASEDIR/LICENSE.txt
+を参照してください。以降に有用なリンクを示します。
 Reference documentation for Pd lives in:
     file:PD_BASEDIR/doc/1.manual/index.htm
 or:
